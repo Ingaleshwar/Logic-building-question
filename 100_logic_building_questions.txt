@@ -1,0 +1,100 @@
+1. Swap two numbers
+2. Check if a number is even or odd
+3. Find the largest of three numbers
+4. Print numbers from 1 to N
+5. Sum of N natural numbers
+6. Reverse a number
+7. Check if a number is a palindrome
+8. Check if a number is prime
+9. Generate Fibonacci series
+10. Find factorial of a number
+11. Check if a year is leap year
+12. Find GCD of two numbers
+13. Find LCM of two numbers
+14. Count the number of digits in a number
+15. Sum of digits of a number
+16. Print multiplication table
+17. Convert Celsius to Fahrenheit
+18. Convert binary to decimal
+19. Convert decimal to binary
+20. Count vowels in a string
+21. Reverse a string
+22. Check if a string is a palindrome
+23. Count occurrence of a character in string
+24. Find length of a string without using len()
+25. Replace a character in a string
+26. Remove spaces from a string
+27. Capitalize first letter of each word in string
+28. Find ASCII value of a character
+29. Add two matrices
+30. Transpose a matrix
+31. Find sum of elements in a list
+32. Find the max and min in a list
+33. Find the second largest element in a list
+34. Remove duplicates from a list
+35. Sort a list without using built-in sort
+36. Merge two sorted lists
+37. Check if a list is a palindrome
+38. Count even and odd numbers in list
+39. Separate even and odd numbers into different lists
+40. Find common elements in two lists
+41. Rotate a list by K positions
+42. Find all prime numbers up to N
+43. Generate all substrings of a string
+44. Find duplicate elements in a list
+45. Find frequency of each element in a list
+46. Find sum of diagonal elements in a matrix
+47. Print Pascal's Triangle
+48. Flatten a nested list
+49. Check if two strings are anagrams
+50. Implement a calculator (add, sub, mul, div)
+51. Generate a pattern of stars (triangle, pyramid)
+52. Find Armstrong numbers between 1 and 1000
+53. Find the first non-repeating character in a string
+54. Print the ASCII table
+55. Convert a string to an integer without using int()
+56. Find the largest prime factor of a number
+57. Find the intersection of two lists
+58. Count words in a sentence
+59. Extract numbers from a string
+60. Reverse the words in a sentence
+61. Remove punctuations from a string
+62. Check if a number is a strong number
+63. Check if a number is a perfect number
+64. Implement simple number guessing game
+65. Check if a list is sorted
+66. Find subarray with given sum
+67. Find missing number in a list of 1 to N
+68. Find first repeating element in a list
+69. Replace all 0’s with 1’s in a number
+70. Print diamond pattern
+71. Check if a string contains only digits
+72. Convert Roman numerals to integer
+73. Convert integer to Roman numeral
+74. Find longest word in a string
+75. Count uppercase, lowercase, digits, and symbols
+76. Implement binary search
+77. Implement linear search
+78. Implement bubble sort
+79. Implement selection sort
+80. Implement insertion sort
+81. Find longest increasing subarray
+82. Find equilibrium index in an array
+83. Move all zeros to end of list
+84. Merge overlapping intervals
+85. Find pair with sum equal to target
+86. Calculate power without using ** or pow()
+87. Generate all permutations of a string
+88. Generate all combinations of a string
+89. Convert number to words
+90. Implement run-length encoding
+91. Check if brackets are balanced in an expression
+92. Evaluate a postfix expression
+93. Validate an IP address
+94. Find largest contiguous subarray sum (Kadane’s Algo)
+95. Count set bits in a number
+96. Calculate nCr using functions
+97. Check if a number is a happy number
+98. Count trailing zeroes in factorial of a number
+99. Compute square root without using sqrt()
+100. Implement a simple version of map() or filter()
