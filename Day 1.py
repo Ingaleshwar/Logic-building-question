@@ -28,7 +28,8 @@ else:
 n=int(input("Enter a number to print from 1 to N: "))
 for i in range(1,n+1):
     print(i,end=' ')
-    
+print()
+
 # 5> Sum of N natural numbers 
 n = int(input("Enter a number to find the sum of natural numbers: "))
 sum=0
@@ -79,4 +80,4 @@ while(num>0):
     rev=rev*10+digit
     num//=10
 
-print("The reverse of ",num," is", rev)
+print("The reverse of entered number is", rev)

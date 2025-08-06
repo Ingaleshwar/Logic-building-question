@@ -28,7 +28,7 @@ def prime_no(num):
 print(prime_no(num))
 
 # 3> Generate Fibonacci series
-num=int(input("Enter the number of Terms: "))
+num=int(input("Enter the number of Terms to find in Fibonacci series: "))
 def fib(num):
     a,b=0,1
     if(num<=0):
@@ -42,15 +42,44 @@ def fib(num):
             c=a+b
             print(c,end=' ')
             a,b=b,c
+        print()
 fib(num)
 
 # 4> Find GCD of two numbers
 # 5> Find LCM of two numbers
+
 # 6> Count the number of digits in a number
+num=int(input("Enter a number to count the number of digits it contains: "))
+def num_dig(num):
+    if(num==0):
+        return 0
+    num=abs(num)
+    count=0
+    while(num>0):
+        count+=1
+        num//=10
+    return count
+print(num_dig(num))
+
 # 7> Sum of digits of a number
+num=int(input("Enter a number to find it's sum of digits: "))
+def sum_digi(num):
+    sum=0
+    if(num==0):
+        return 0
+    num=abs(num)
+    while(num>0):
+        digit=num%10
+        sum+=digit
+        num//=10
+    return sum
+print(sum_digi(num))
+        
 # 8> Convert binary to decimal
 # 9> Convert decimal to binary
 # 10> Count vowels in a string
 # 11> Reverse a string
+s=input("Enter a string to reverse it: ")
+print(s[::-1])
 # 12> Convert Roman numerals to integer
 # 13> Convert integer to Roman numeral
