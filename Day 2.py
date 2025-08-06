@@ -52,7 +52,7 @@ fib(num)
 num=int(input("Enter a number to count the number of digits it contains: "))
 def num_dig(num):
     if(num==0):
-        return 0
+        return 1
     num=abs(num)
     count=0
     while(num>0):
