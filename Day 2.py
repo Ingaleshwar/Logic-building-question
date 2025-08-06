@@ -59,7 +59,7 @@ def num_dig(num):
         count+=1
         num//=10
     return count
-print(num_dig(num))
+print("The number contains ",num_dig(num)," digits.")
 
 # 7> Sum of digits of a number
 num=int(input("Enter a number to find it's sum of digits: "))
@@ -73,7 +73,7 @@ def sum_digi(num):
         sum+=digit
         num//=10
     return sum
-print(sum_digi(num))
+print("The sum of digits is", sum_digi(num), ".")
         
 # 8> Convert binary to decimal
 # 9> Convert decimal to binary
