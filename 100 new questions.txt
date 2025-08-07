@@ -1,0 +1,105 @@
+✅ Basic Level (1–30)
+Swap two numbers without using a third variable
+Check if a number is even or odd
+Find the greatest of three numbers
+Reverse a number
+Check if a number is a palindrome
+Check if a number is prime
+Print Fibonacci series
+Count the number of digits in a number
+Calculate factorial of a number
+Find sum of digits of a number
+Check for Armstrong number
+Check for Perfect number
+Print multiplication table of a number
+Find the largest digit in a number
+Check if a character is a vowel or consonant
+Convert Celsius to Fahrenheit
+Calculate simple interest
+Check if a year is a leap year
+Find GCD of two numbers
+Find LCM of two numbers
+Print all prime numbers in a range
+Find sum of first N natural numbers
+Find power of a number (without **)
+Convert binary to decimal
+Convert decimal to binary
+Count number of vowels in a string
+Reverse a string
+Check if a string is a palindrome
+Count frequency of each character in a string
+Find ASCII value of a character
+
+🔁 Loop & Conditional Practice (31–60)
+Print all even numbers till N
+Print all odd numbers till N
+Sum of even digits in a number
+Sum of odd digits in a number
+Check if a number is a Harshad number
+Print pattern of stars (triangle)
+Print number triangle
+Check for strong number
+Check for automorphic number
+Find HCF using Euclidean Algorithm
+Print all factors of a number
+Find minimum and maximum of list
+Check if two strings are anagrams
+Find frequency of elements in a list
+Remove duplicates from a list
+Sort list without using sort()
+Find second largest element
+Calculate area of circle
+Calculate area of triangle
+Sum of squares of digits
+Find first N prime numbers
+Find sum of prime numbers till N
+Count digits, alphabets, symbols in string
+Merge two lists
+Find common elements in two lists
+Remove vowels from a string
+Find duplicate characters in a string
+Find all substrings of a string
+Capitalize first letter of each word
+Replace spaces with hyphens in a string
+
+💡 Intermediate Thinking (61–100)
+Check if list is sorted
+Rotate a list left by K steps
+Rotate a list right by K steps
+Find largest palindrome in a list
+Find prime factors of a number
+Implement calculator using functions
+Find sum of numbers in a string
+Replace vowels with '*' in a string
+Count number of words in a string
+Reverse each word in a string
+Find frequency of words in a sentence
+Find intersection of two sets
+Count number of uppercase and lowercase letters
+Check if number is perfect square
+Find numbers divisible by 3 and 5 in range
+Print pattern with numbers and stars
+Find smallest missing positive number
+Sum of even Fibonacci numbers
+Convert Roman to Integer
+Convert Integer to Roman
+Implement a simple to-do list using list
+Check if a matrix is symmetric
+Transpose a matrix
+Find sum of diagonals in matrix
+Create identity matrix
+Multiply two matrices
+Search for element in matrix
+Find sum of rows and columns
+Print Pascal’s Triangle
+Implement bubble sort manually
+Implement linear search
+Implement binary search
+Count trailing zeros in factorial
+Find nth Fibonacci number using recursion
+Find GCD using recursion
+Add two numbers without using +
+Find unique elements in list
+Check if a string contains all alphabets
+Count pairs with given sum
+Find difference between sum of squares and square of sum
