@@ -46,7 +46,20 @@ def fib(num):
 fib(num)
 
 # 4> Find GCD of two numbers
+n1= int(input("Enter a number: "))
+n2= int(input("Enter a number: "))
+def gcd(n1,n2):
+    while n2:
+        n1,n2=n2,n1%n2
+    return n1
+print("The GCD of two numbers is: ",gcd(n1,n2))
+
 # 5> Find LCM of two numbers
+num1=int(input("Enter a number: "))
+num2=int(input("Enter a number: "))
+def lcm(num1,num2):
+    return (num1*num2)//gcd(num1,num2)
+print(lcm(num1,num2))
 
 # 6> Count the number of digits in a number
 num=int(input("Enter a number to count the number of digits it contains: "))
