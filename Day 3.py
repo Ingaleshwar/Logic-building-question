@@ -53,3 +53,15 @@ def pow(base_num,exp_num):
         power*=base_num
     return power
 print("The power of the given base number and exponent number is: ",pow(base_num,exp_num))
+
+# 5 Check if a character is a vowel or consonant
+ch=input("Enter a character to check if it is Vowel or consonant: ")
+def char(ch):
+    vow=['a','e','i','o','u']
+    if ch.lower() in vow:
+        print("It is a Vowel!")
+    else:
+        print("It is consonant!")
+char(ch)
+
+# 6 Find the largest digit in a number
