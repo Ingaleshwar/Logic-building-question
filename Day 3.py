@@ -43,4 +43,13 @@ def S_I(p,r,t):
     return ((p*r*t)/100)
 print(S_I(p,r,t))
 
-# 4  
+# 4 Find power of a number (without **)
+print("Enter base number and exponent number to find it's power: ")
+base_num=int(input("Enter the base number: "))
+exp_num=int(input("Enter the exponent number: "))
+def pow(base_num,exp_num):
+    power=1
+    for i in range(1,exp_num+1):
+        power*=base_num
+    return power
+print("The power of the given base number and exponent number is: ",pow(base_num,exp_num))
