@@ -65,3 +65,14 @@ def char(ch):
 char(ch)
 
 # 6 Find the largest digit in a number
+num=int(input("Enter a number to find the largest digit in it: "))
+def lg_digi(num):
+    large=0
+    while num>0:
+        digit=num%10
+        if(large<digit):
+            large=digit
+        num//=10
+    return large
+
+print("The largest digit is: ",lg_digi(num))
